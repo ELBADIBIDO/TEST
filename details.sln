@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EFFICTIF", "details\EFFICTIF.vbproj", "{E82552DF-D7AC-4D65-830E-4D256D47E074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82552DF-D7AC-4D65-830E-4D256D47E074}.Debug|x86.ActiveCfg = Debug|x86
+		{E82552DF-D7AC-4D65-830E-4D256D47E074}.Debug|x86.Build.0 = Debug|x86
+		{E82552DF-D7AC-4D65-830E-4D256D47E074}.Release|x86.ActiveCfg = Release|x86
+		{E82552DF-D7AC-4D65-830E-4D256D47E074}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C9B6B0-4907-4068-98A8-CF4AF800490F}
+	EndGlobalSection
+EndGlobal
